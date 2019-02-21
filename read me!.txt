@@ -1,0 +1,19 @@
+Kratak opis funkcionalnosti sajta:
+
+Sajt je radjen na uzoru sajta "Kupijem prodajem". Neautorizovani korisnici mogu pregledati sve oglase na
+pocetnoj strani takodje klikom da sliku ili naziv, dobijaju vise informacija o samom oglasu i korisniku
+koji je postavio taj oglas i cilju kontakta. Omoguceno je i sortiranje svih oglasa po kategorijama (postoje tri
+kategorije) po proizvodjacima i po ceni.
+
+Registracija i logovanje:
+
+Nakon uspesne registracije korisnik dobija mail sa aktivacionim linkom na mail naveden u registracionoj formi.
+Bez aktivacije naloga preko maila, nalog je nedostupan za logovanje.
+test nalog: email: sima@gmail.com
+            pass:  sima123SS
+
+Svaki autorizovani korisnik ima svoj mini admin panel za upravljanje svojim oglasima, gde naravno moze dodavati,
+azurirati ili brisati samo svoje proizvode. Takodje autorizovani korisnici mogu komentarisati sve oglase na sajtu.
+
+Na sajtu postoji i globalni admin panel, gde korisnik sa admin nalogom moze upravljati celokupnim sadrzajem sajta.
+Nije jos dovrsen tako da je trenutno moguce upravljati samo korisnickim nalozima.
